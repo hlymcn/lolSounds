@@ -1,0 +1,6 @@
+﻿生成开始于 4:28...
+1>------ 已启动生成: 项目: lolSounds, 配置: Release Any CPU ------
+1>跳过分析器以加快生成速度。可以执行“生成”或“重新生成”命令来运行分析器。
+1>lolSounds -> C:\Users\CrazyLeaf\source\repos\lolSounds\lolSounds\bin\Release\net8.0\lolSounds.dll
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 4:28 完成，耗时 05.574 秒 ==========
