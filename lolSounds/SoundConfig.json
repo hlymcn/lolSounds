@@ -1,8 +1,0 @@
-{
-  "AudioCommands": [
-    {
-      "Command": "!lol",
-      "AudioPath": "audio/lol.mp3"
-    }
-  ]
-}
