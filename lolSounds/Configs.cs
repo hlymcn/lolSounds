@@ -1,4 +1,3 @@
-
 namespace lolsounds
 {
     public static class Configs
